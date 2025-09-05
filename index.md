@@ -16,7 +16,7 @@ Syntax highlighted code block
 ### Header 3
 
 - We learn how to use all necessary coding tools for Purdue CS
-- We get to see our _amazing_ TAs
+- We get to see our amazing TAs
 
 1. Numbered
 2. List
