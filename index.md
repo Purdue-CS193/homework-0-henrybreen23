@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Henry Breen's First CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,8 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- We learn how to use all necessary coding tools for Purdue CS
+- We get to see our _amazing_ TAs
 
 1. Numbered
 2. List
